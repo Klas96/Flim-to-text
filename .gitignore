@@ -1,0 +1,8 @@
+# ignore Video
+*.mp4
+*.avi
+
+# ignore all logs
+*.wav
+*.mp3
+
